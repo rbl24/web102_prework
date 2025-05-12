@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://osu.zoom.us/rec/share/wDNGI8kT542jOPr0xSlvnlI6ChukyR7sj6Dtexog3GPUrXzwUhGg1JLnZWUvykQT.7OUrqwYa_Bo4qZYU?startTime=1747026635000' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 
